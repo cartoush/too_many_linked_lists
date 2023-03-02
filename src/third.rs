@@ -1,6 +1,5 @@
 use std::sync::Arc;
 
-
 pub struct List<T> {
     head: Link<T>,
 }
